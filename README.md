@@ -15,8 +15,8 @@ You must have:
 # How to use the program
 1. Run the first script "*triage.py*" to select the chosen data from OFF database and create your own .csv database file.
 2. Run the second script "*myoff_db_creation.py*" to create your database.
-3. Run the third script "*tables_creation.py*" to create the database tables. **Note: run this script only once to avoid double data isertions**.
-4. Run the fourth script "*data_feeding.py*" to insert data into your database.
+3. Run the third script "*tables_creation.py*" to create the database tables.
+4. Run the fourth script "*data_feeding.py*" to insert data into your database. **Note: run this script only once to avoid double data insertions**.
 5. Run the fifth script "*substitute finder.py*" every time you need a nutritional advice.
 
 - Now you are able to run the main program and get healthier!
